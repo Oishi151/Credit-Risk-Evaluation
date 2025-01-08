@@ -1,8 +1,6 @@
 # Credit-Risk-Evaluation
-Feature Description
-
+Feature Description:
 person_age: Age of the individual applying for the loan.
-
 person_income: Annual income of the individual.
 
 person_home_ownership: Type of home ownership of the individual.
